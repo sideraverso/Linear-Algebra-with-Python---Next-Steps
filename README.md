@@ -1,8 +1,8 @@
-# ${COURSE TITLE}
+# Linear Algebra with Python Next Steps: Essential Math for Data Science
 
 ![Powered by Jupyter Logo](https://cdn.oreillystatic.com/images/icons/powered_by_jupyter.png)
 
-This project contains the Jupyter Notebooks and supporting files for _${COURSE TITLE}_ with ${INSTRUCTOR}. 
+This project contains the Jupyter Notebooks and supporting files for _Linear Algebra with Python Next Steps: Essential Math for Data Science_ with Tatiana Ediger. 
 
 These notebooks can be run on the O'Reilly Learning Platform [here](https://learning.oreilly.com/jupyter-notebooks/~/${NOTEBOOK_FPID}).
 
@@ -12,4 +12,4 @@ This is a public repository so there is no need to create an account to download
 
 To download via git from your preferred terminal application, type:
 
-```git clone https://resources.oreilly.com/binderhub/${END OF URL}```
+```git clone https://resources.oreilly.com/binderhub/linear-algebra-with-python-next-steps```
