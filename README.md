@@ -4,7 +4,7 @@
 
 This project contains the Jupyter Notebooks and supporting files for _Linear Algebra with Python Next Steps: Essential Math for Data Science_ with Tatiana Ediger. 
 
-These notebooks can be run on the O'Reilly Learning Platform [here](https://learning.oreilly.com/jupyter-notebooks/~/${NOTEBOOK_FPID}).
+These notebooks can be run on the O'Reilly Learning Platform [here](https://learning.oreilly.com/jupyter-notebooks/~/9781098108229).
 
 It contains both the exercises (/notebooks), possibly the solutions (/solutions), as well as any data or files needed (/data). If you are familiar with docker, there is also a dockerfile included for your convenience. 
 
